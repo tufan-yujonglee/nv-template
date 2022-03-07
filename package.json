@@ -1,0 +1,16 @@
+{
+  "name": "nv-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jayden",
+  "license": "ISC",
+  "devDependencies": {
+    "noun-and-verb": "github:tufan-io/noun-and-verb-m1",
+    "prisma": "^3.10.0"
+  }
+}
